@@ -1,2 +1,4 @@
 # New-web-project
-Personal project for practice
+This is just a basic project used by me for practice and experience. 
+
+New to Github 
