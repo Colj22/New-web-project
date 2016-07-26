@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	height: 100%;
+	margin: 0;
+	
+	width: 100%;
+    background-image: url('img/dark_wood.png');
+    background-color: #11AAFF;
+}
+
+h1 {
+	font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 16px; 
+    margin: 40px;
+}
+
+
+.hero {
+	background-image: url('img/background.png');
+	background-position: center top;
+	background-size: cover;
+	
+	margin: 30px;
+	text-shadow: 0 2px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+}
+
+
+p {
+	color: #ffffff;
+	font-size: 1em;
+    margin: 20px;
+    padding: 10px;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
